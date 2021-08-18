@@ -1,0 +1,123 @@
+2021-08-18 16:33:51,835 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 16:33:51,855 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 16:33:55,760 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 16:33:55,951 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 17:08:30,868 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 17:08:30,884 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 17:08:30,884 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 17:14:24,909 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 17:14:24,923 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 17:14:28,423 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 17:14:29,650 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 19:17:45,554 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 19:17:45,566 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 19:17:53,749 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 19:49:14,659 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 19:49:14,666 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 19:49:18,606 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 19:49:20,704 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 20:35:34,432 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 20:35:34,442 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 20:35:42,011 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 20:35:47,447 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 20:46:42,211 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 20:46:42,222 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 20:46:46,831 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 20:46:52,030 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 20:48:18,354 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 20:48:18,363 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 20:48:22,422 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 20:48:25,560 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 20:53:20,236 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 20:53:20,246 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 20:53:24,984 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 20:53:28,438 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 20:55:30,914 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 20:55:30,920 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 20:55:34,915 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 20:55:38,140 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 20:56:39,421 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 20:56:39,428 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 20:56:42,903 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 20:56:46,373 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 20:58:43,230 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 20:58:43,238 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 20:58:46,945 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 20:58:50,252 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 20:59:32,961 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 20:59:32,970 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 20:59:36,671 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 20:59:39,712 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 21:02:18,683 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 21:02:18,692 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 21:02:22,344 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 21:02:25,461 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 21:03:55,598 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 21:03:55,607 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 21:03:59,313 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 21:04:02,949 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 21:05:16,257 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 21:05:16,265 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 21:05:20,429 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 21:05:23,834 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 21:13:06,598 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 21:13:06,605 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 21:13:10,454 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 21:13:10,456 INFO c.e.c.s.AccountCreation [main] Web application started
+2021-08-18 21:13:11,425 INFO c.e.c.s.AccountCreation [main] Clicking Myaccount
+2021-08-18 21:13:12,330 INFO c.e.c.s.AccountCreation [main] Entering all the input values
+2021-08-18 21:13:13,499 INFO c.e.c.s.AccountCreation [main] Verifying expected and actual result
+2021-08-18 21:13:13,504 INFO c.e.c.s.AccountCreation [main] Test Passed
+2021-08-18 21:13:13,504 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 23:03:12,540 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 23:03:12,553 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 23:03:17,899 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 23:03:17,901 INFO c.e.c.s.AccountCreation [main] Web application started
+2021-08-18 23:03:20,026 INFO c.e.c.s.AccountCreation [main] Clicking Myaccount
+2021-08-18 23:03:21,077 INFO c.e.c.s.AccountCreation [main] Entering all the input values
+2021-08-18 23:03:22,480 INFO c.e.c.s.AccountCreation [main] Verifying expected and actual result
+2021-08-18 23:03:22,483 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 23:17:27,284 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 23:17:27,291 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 23:17:29,887 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 23:17:29,890 INFO c.e.c.s.AccountCreation [main] Web application started
+2021-08-18 23:17:31,003 INFO c.e.c.s.AccountCreation [main] Clicking Myaccount
+2021-08-18 23:17:31,918 INFO c.e.c.s.AccountCreation [main] Entering all the input values
+2021-08-18 23:17:32,995 INFO c.e.c.s.AccountCreation [main] Verifying expected and actual result
+2021-08-18 23:17:32,998 INFO c.e.c.s.AccountCreation [main] Test Passed
+2021-08-18 23:17:32,998 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 23:22:33,690 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 23:22:33,694 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 23:22:36,553 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 23:22:36,555 INFO c.e.c.s.AccountCreation [main] Web application started
+2021-08-18 23:22:37,559 INFO c.e.c.s.AccountCreation [main] Clicking Myaccount
+2021-08-18 23:22:38,457 INFO c.e.c.s.AccountCreation [main] Entering all the input values
+2021-08-18 23:22:39,497 INFO c.e.c.s.AccountCreation [main] Verifying expected and actual result
+2021-08-18 23:22:39,500 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 23:24:36,414 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 23:24:36,420 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 23:24:39,344 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 23:24:39,347 INFO c.e.c.s.AccountCreation [main] Web application started
+2021-08-18 23:24:40,385 INFO c.e.c.s.AccountCreation [main] Clicking Myaccount
+2021-08-18 23:24:41,291 INFO c.e.c.s.AccountCreation [main] Entering all the input values
+2021-08-18 23:24:42,439 INFO c.e.c.s.AccountCreation [main] Verifying expected and actual result
+2021-08-18 23:24:42,442 INFO c.e.c.s.AccountCreation [main] Test Passed
+2021-08-18 23:24:42,443 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 23:26:29,466 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 23:26:29,471 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 23:26:32,382 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 23:26:32,384 INFO c.e.c.s.AccountCreation [main] Web application started
+2021-08-18 23:26:33,611 INFO c.e.c.s.AccountCreation [main] Clicking Myaccount
+2021-08-18 23:26:34,518 INFO c.e.c.s.AccountCreation [main] Entering all the input values
+2021-08-18 23:26:35,591 INFO c.e.c.s.AccountCreation [main] Verifying expected and actual result
+2021-08-18 23:26:35,595 INFO c.e.c.s.AccountCreation [main] Test Passed
+2021-08-18 23:26:35,595 INFO c.e.c.s.StepDefenition [main] Browser Closed
+2021-08-18 23:29:40,263 INFO c.e.c.s.StepDefenition [main] Execution Started
+2021-08-18 23:29:40,268 INFO c.e.c.s.StepDefenition [main] Properties Loaded
+2021-08-18 23:29:43,159 INFO c.e.c.s.StepDefenition [main] Browser launched
+2021-08-18 23:29:43,161 INFO c.e.c.s.AccountCreation [main] Web application started
+2021-08-18 23:29:43,928 INFO c.e.c.s.AccountCreation [main] Clicking Myaccount
+2021-08-18 23:29:44,923 INFO c.e.c.s.AccountCreation [main] Entering all the input values
+2021-08-18 23:29:46,262 INFO c.e.c.s.AccountCreation [main] Verifying expected and actual result
+2021-08-18 23:29:46,265 INFO c.e.c.s.AccountCreation [main] Test Passed
+2021-08-18 23:29:46,439 INFO c.e.c.s.StepDefenition [main] Browser Closed
